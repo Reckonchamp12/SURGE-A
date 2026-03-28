@@ -26,18 +26,16 @@ where `γ = 1` is theoretically motivated (not tuned on the calibration set) and
 | Missing baseline confirmed | Aggressive-rate experiment (p=0.05) exposes the coverage gap between corrected and uncorrected intervals |
 
 ---
-![ARTEMIS Architecture](Assets/ablation_radar.png)
-![ARTEMIS Architecture](Assets/ablation_radar.png)
-![ARTEMIS Architecture](Assets/ablation_radar.png)
-![ARTEMIS Architecture](Assets/ablation_radar.png)
-![ARTEMIS Architecture](Assets/ablation_radar.png)
-![ARTEMIS Architecture](Assets/ablation_radar.png)
-![ARTEMIS Architecture](Assets/ablation_radar.png)
-![ARTEMIS Architecture](Assets/ablation_radar.png)
-![ARTEMIS Architecture](Assets/ablation_radar.png)
-![ARTEMIS Architecture](Assets/ablation_radar.png)
-![ARTEMIS Architecture](Assets/ablation_radar.png)
-![ARTEMIS Architecture](Assets/ablation_radar.png)
+![ARTEMIS Architecture](Assets/fig7_stationarity.png)
+![ARTEMIS Architecture](Assets/fig9_caw_heatmap.png)
+![ARTEMIS Architecture](Assets/fig8_rank_diagonistic.png)
+![ARTEMIS Architecture](Assets/fig4_fft.png)
+![ARTEMIS Architecture](Assets/fig3_nonlinear_datasets.png)
+![ARTEMIS Architecture](Assets/fig3_acf.png)
+![ARTEMIS Architecture](Assets/fig2_lstm_coverage_all_datasets.png)
+![ARTEMIS Architecture](Assets/fig2_distribution.png)
+![ARTEMIS Architecture](Assets/fig1_timeseries.png)
+
 ## Repository Structure
 
 ```
