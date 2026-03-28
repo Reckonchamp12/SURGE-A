@@ -26,7 +26,18 @@ where `γ = 1` is theoretically motivated (not tuned on the calibration set) and
 | Missing baseline confirmed | Aggressive-rate experiment (p=0.05) exposes the coverage gap between corrected and uncorrected intervals |
 
 ---
-
+![ARTEMIS Architecture](Assets/ablation_radar.png)
+![ARTEMIS Architecture](Assets/ablation_radar.png)
+![ARTEMIS Architecture](Assets/ablation_radar.png)
+![ARTEMIS Architecture](Assets/ablation_radar.png)
+![ARTEMIS Architecture](Assets/ablation_radar.png)
+![ARTEMIS Architecture](Assets/ablation_radar.png)
+![ARTEMIS Architecture](Assets/ablation_radar.png)
+![ARTEMIS Architecture](Assets/ablation_radar.png)
+![ARTEMIS Architecture](Assets/ablation_radar.png)
+![ARTEMIS Architecture](Assets/ablation_radar.png)
+![ARTEMIS Architecture](Assets/ablation_radar.png)
+![ARTEMIS Architecture](Assets/ablation_radar.png)
 ## Repository Structure
 
 ```
